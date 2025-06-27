@@ -1,8 +1,6 @@
 # Machine-_learning 
-Till now we have learnt basics of Machine learning and some basic models of it.
-What are different tyes of Learing methods.
-How to train model with suitable data.And scale features to incresae accuracy and traning time.
-We learnt differnt cost functions that can measure error in predictions.
-We learn algoritm to minimize this cost funcion using gradient descent functions.
-Specificly we hve learn two algoritms and their terminologies .
-Linear regression and logistic regression.
+Till now, we have learned the basics of Machine Learning and some fundamental models.
+We explored different types of learning methods, how to train a model with suitable data, and how to scale features to improve accuracy and reduce training time.
+We also studied various cost functions that measure the error in predictions. 
+Additionally, we learned an algorithm to minimize this cost function using gradient descent.
+Specifically, we have studied two algorithms and their terminologies: Linear Regression and Logistic Regression.
